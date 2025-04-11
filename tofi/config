@@ -1,0 +1,14 @@
+width = 100%
+height = 100%
+border-width = 0
+outline-width = 0
+padding-left = 35%
+padding-top = 35%
+result-spacing = 25
+num-results = 5
+font = jetbrains-mono
+# Catppuccin Macchiato
+text-color = #b4befe
+prompt-color = #cba6f7
+selection-color = #a6e3a1
+background-color = #000A
