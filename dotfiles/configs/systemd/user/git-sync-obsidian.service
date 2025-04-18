@@ -1,0 +1,7 @@
+[Unit]
+Description=Sync Obsidian Vault with GitHub
+Wants=git-sync-obsidian.timer
+
+[Service]
+Type=simple
+ExecStart=/home/aether/.local/bin/git-sync-obsidian.sh
